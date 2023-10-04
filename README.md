@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FF0001&height=300&section=header&text=kimminseon_github&fontSize=90&animation = twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FF0001&height=300&section=header&text=kimminseon_github&fontSize=90&animation=twinkling)
 ### 민붕이 깃허브~ 👋
 
 ## https://dillinger.io/ 
