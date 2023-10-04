@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=민선이 깃허브%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=kimminseon_github%20render&fontSize=90)
 ### 민붕이 깃허브~ 👋
 
 ## https://dillinger.io/ <!-- 코드 미리볼 수 있음? -->
