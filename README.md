@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FF0001&height=300&section=header&text=kimminseon_github&fontSize=90&animation=twinkling)
 ### 민붕이 깃허브~ 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D46C8&title_bg=%2316ED36&icon=&icon_color=%23E7E7E7&title=minseon&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## https://dillinger.io/ 
 ## ↑코드 미리볼 수 있음!
