@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FF0001&height=300&section=header&text=kimminseon_github&fontSize=90&animation=twinkling)
-### 👋
+### 👋AI배우고있어요
 
 <h3 align="center"><b>📚 Languages 📚</b></h3>
 </br>
