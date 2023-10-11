@@ -28,7 +28,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimminseon)](https://solved.ac/kimminseon/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=itiswhatitis🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=안녕하세요~개씹뉴비입니다~!🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 
 
 
