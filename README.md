@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://www.instagram.com/minseon0103"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/minseon0103"/></a>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=이름)](https://solved.ac/kimminseon/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimminseon)](https://solved.ac/kimminseon/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 
