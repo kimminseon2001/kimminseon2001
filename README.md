@@ -15,7 +15,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimminseon)](https://solved.ac/kimminseon/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=Hi there I'm minseon(elia)kim thank you for taking your time!🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=Hi there I'm minseoneliakim thank you for taking your time🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 
 
 
