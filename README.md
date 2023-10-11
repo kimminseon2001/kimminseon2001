@@ -15,7 +15,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimminseon)](https://solved.ac/kimminseon/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 
 
 
