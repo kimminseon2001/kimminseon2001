@@ -4,6 +4,7 @@
 
 ## https://dillinger.io/ 
 ## ↑코드 미리볼 수 있음!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimminseon2001&show_icons=true&theme=radical)
 <!--
 **kimminseon2001/kimminseon2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
