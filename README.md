@@ -3,6 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a5ea89&lines=welcome back&font=Redressed&size=40)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
 
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dkssud8150&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D46C8&title_bg=%2316ED36&icon=&icon_color=%23E7E7E7&title=minseon&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ## https://dillinger.io/ 
