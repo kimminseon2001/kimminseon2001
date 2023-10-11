@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   
-<h3 align="center"><b>📚 server 📚</b></h3>
+<h3 align="center"><b> ༼ つ ◕_◕ ༽つ server🖥 </b></h3>
 </br>
 <p align="center">
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
